@@ -24,12 +24,12 @@
   "repositories": [
     {
       "name": "otus",
-      "path": "tcp://KyralesGun/Storage/storage.1ccr/StorageOtus",
+      "path": "C:/Users/Dmitry/Documents/StorageOtus",
       "dir": "./src/cf",
       "temp-dir": "",
-      "v8version": "8.3.25.1546",
+      "v8version": "8.3.27.1786",
       "plugins-config": {
-        "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
+        "URL": "https://github.com/ALTAIR10X/JENKINS_TEST.git"
       }
     },
     {
@@ -38,9 +38,9 @@
         "path": "tcp://KyralesGun/Storage/storage.1ccr/StorageOtus_yaxunit",
         "dir": "./src/cfe/yaxunit",
         "temp-dir": "",
-        "v8version": "8.3.25.1546",
+        "v8version": "8.3.27.1786",
         "plugins-config": {
-          "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
+          "URL": "https://github.com/ALTAIR10X/JENKINS_TEST.git"
         }
      }
   ]
