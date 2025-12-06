@@ -3,7 +3,7 @@
   "agent": "gitsync",
   "v8Version": "8.3.27.1786",
   "defaultInfobase": {
-    "connectionString": "C:/Users/Dmitry/Documents/DemoUP_clear",
+    "connectionString": "/Fс:/Users/Dmitry/Documents/DemoUP_clear",
     "auth": ""
   },
   "stages": {
