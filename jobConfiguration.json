@@ -76,8 +76,6 @@
       "-ThinClient",
       "-Server",
       "-ConfigLogIntegrity",
-      "-HandlersExistence",
-      "-ExtendedModulesCheck",
       "-ExternalConnection"
     ],
     "vrunnerSettings": "./tools/vrunner.json",
